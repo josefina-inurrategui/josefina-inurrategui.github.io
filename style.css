@@ -1,0 +1,39 @@
+/* *{
+  font-family:'Times New Roman', Times, serif
+}
+a{
+  font-size: 20px;
+  color:blue;
+}
+#h1{
+  color:blueviolet;
+}
+.textorojo{
+  color:orange;
+  border: solid 1px red;
+  width:50%;
+}
+img{
+  width:30%;
+} */
+
+.navbar{
+  background: blue;
+}
+ul{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content:space-evenly;
+  border: solid red 2px;
+  width: 70%;
+  margin: auto;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.acordion{
+  width:50%;
+}
